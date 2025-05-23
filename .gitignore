@@ -1,0 +1,18 @@
+# WordPress core files
+wp-config.php
+.htaccess
+
+# WordPress content
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/cache/
+/wp-content/backups/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
