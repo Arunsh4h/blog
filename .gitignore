@@ -13,6 +13,6 @@ wp-config.php
 *.sql
 *.sqlite
 
-# OS filesss
+# OS filessssss
 .DS_Store
 Thumbs.db
